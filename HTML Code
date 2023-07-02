@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempo Fit</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="tempo2.css">
+
+</head>
+<body>
+    <header>
+      <div class="wrapper">
+          <div class="container">
+             <div class="logo"><a href="tempo2.html">Tempo</a></div>
+
+             <div class="nav">
+                  <nav>
+                         <ul>
+                             <li class="links"><a href="#">Core</a></li>
+                             <li class="links"><a href="#">Move</a></li>
+                             <li class="links"><a href="#">Studio</a></li>
+                             <li class="links"><a href="#">Trainers</a></li>
+                             <li class="links"><i class="fa-regular fa-user"></i></li>
+                         </ul>
+                  </nav>
+              
+             </div>
+          </div>
+             
+      </div>
+    </header>
+    <main>
+         <div class="container">
+             <div class="content">
+                <h1>Get $100 off Move <br>
+                    for a limited time.</h1>
+             </div>
+         </div>
+    </main>
+    <br><br><br>
+     <section id="intro" target="intros">
+
+              <div class="container">
+                       <div class="content">
+                               <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                               <ul>
+                                    <li>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                    <li>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                    <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur sint aspernatur eligendi saepe.</li>
+                               </ul>
+                                <a href="#" class="btn">Learn More</a>
+                       </div>
+                       <div class="image">
+                                <a href="#"><img src="section.jpg" alt=""></a>
+                       </div>
+              </div>
+
+     </section>
+     <section id="gallery"> 
+           <div class="container">
+                  <hgroup>
+                  <h2>Studio Gallery</h2>
+                </hgroup>
+           </div>
+           <div class="gallery">
+                    <img src="section2.jpg" alt="">
+                    <img src="section2.jpg" alt="">
+                    <img src="section2.jpg" alt="">
+                    <img src="section2.jpg" alt="">
+                    <img src="section2.jpg" alt="">
+                    <img src="section2.jpg" alt="">
+           </div>
+     </section>
+     <section id="trainers">
+           <div class="container">
+                 <hgroup>
+                    <h2>Proffesional Trainers</h2>
+                 </hgroup>
+                 <div class="trainers">
+                          <div class="card">
+                                   <div class="contact">
+                                           <h4>Chris Bumstead</h4>
+                                           <span>Personal Trainer</span>
+                                           <ul>
+                                            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                        </ul>
+                                   </div>
+                          </div>
+                          <div class="card">
+                             <div class="contact">
+                                <h4>Chris Bumstead</h4>
+                                <span>Personal Trainer</span>
+                                <ul>
+                                    <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                </ul>
+                             </div>
+                          </div>
+                          <div class="card">
+                             <div class="contact">
+                                <h4>Chris Bumstead</h4>
+                                <span>Personal Trainer</span>
+                                <ul>
+                                    <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                </ul>
+                             </div>
+                          </div>
+                 </div>
+           </div>
+     </section>
+     <section id="email">
+                  <div class="container">
+                        <div class="content">
+                                <h3>
+                                    Stay on beat.
+                                </h3>
+                                <p>Add your email and we'll send you the latest news, deals, and offers.</p>
+                        </div>
+                        <div class="email">
+
+                                    <form action="#">
+                                        <input type="email" name="email" placeholder="Please enter your Email">
+                                    </form>
+                        </div>
+                  </div>
+     </section>
+     <footer>
+         <div class="container footer-top">
+            <div>
+                  <h3>Shop</h3>
+                  <ul class="list">
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem, ipsum dolor.</li>
+                        <li>Lorem</li>
+                        <li>Lorem ipsum dolor sit.</li>
+                        <li>Lorem, ipsum.</li>
+                        <li>Lorem, ipsum dolor.</li>
+                  </ul>
+            </div>
+            <div>
+                <h3>Learn</h3>
+                <ul class="list">
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem, ipsum dolor.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Support</h3>
+                <ul class="list">
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem, ipsum dolor.</li>
+                      <li>Lorem</li>
+                      <li>Lorem ipsum dolor sit.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Social</h3>
+                <ul class="list">
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem Ipsum</li>
+                      <li>Lorem, ipsum dolor.</li>
+                      <li>Lorem</li>
+                </ul>
+            </div>
+         </div>
+         <div class="footer-bottom">
+            <div class="container">
+                      <p>Repliced by <a href="#">@arditavdiu4</a></p>
+                      <p>Tempo Fit</p>
+            </div>
+         </div>
+     </footer>
+</body>
+</html>
